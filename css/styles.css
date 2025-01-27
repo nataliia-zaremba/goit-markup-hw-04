@@ -475,7 +475,7 @@ margin-right: 120px;
 .footer-sociale-box {
     display: flex;
    flex-direction: column;
-   margin-left: 120px;
+  
 gap: 16px;
 
 }
